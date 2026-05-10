@@ -103,7 +103,7 @@ Engineering ecosystem evolution roadmap and future initiatives.
 
 
 ### Technologies
-`Python | FastAPI | Django | Flask | ASP.NET Core | Node.js | React | Next.js | Flutter | Docker | Kubernetes | PostgreSQL | Redis | RabbitMQ | Kafka | GitHub Actions | Terraform | AWS | Azure | GraphQL`
+`Python | FastAPI | Django | Flask | ASP.NET Core | Node.js | React | Next.js | Docker | Kubernetes | PostgreSQL | Redis | RabbitMQ | Kafka | GitHub Actions | Terraform | AWS | Azure | GraphQL`
 
 ## Engineering Principles
 
