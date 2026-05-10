@@ -3,7 +3,6 @@
 Central overview of the Engineering Ecosystem Hub structure, engineering domains, repository organization, and technology ecosystem.
 
 ---
-
 # Purpose
 
 The Engineering Ecosystem Hub was designed to centralize engineering references, production-grade repositories, architectural domains, and technical standards into a scalable and organized ecosystem.
@@ -59,6 +58,7 @@ All repositories belonging to the ecosystem should follow standardized engineeri
 
 The ecosystem prioritizes:
 
+- SOLID Principles
 - Scalability
 - Maintainability
 - Modularity

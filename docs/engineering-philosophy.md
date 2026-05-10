@@ -12,6 +12,14 @@ Build scalable, maintainable, production-grade systems using strong engineering 
 
 # Core Principles
 
+
+## SOLID Principles
+
+The ecosystem adopts SOLID principles as foundational engineering guidelines for building scalable, maintainable, and extensible software systems.
+
+Additional reference: 
+[solid-principles.md](./solid-principles.md)
+
 ## Scalability
 
 Systems should be designed to scale horizontally and evolve without architectural degradation.

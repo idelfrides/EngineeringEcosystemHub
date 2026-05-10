@@ -79,13 +79,15 @@ engineering-ecosystem-hub/
 ```
 
 ## Documentation
-Ecosystem Overview
+
+### Ecosystem Overview
 General overview of the engineering ecosystem structure, domains, and repository organization.
 
 [ecosystem-overview.md](./docs/ecosystem-overview.md)
 
 ### Engineering Philosophy
 Core engineering principles, quality standards, and ecosystem-wide technical vision.
+
 [engineering-philosophy.md](./docs/ecosystem-overview.md)
 
 ### Standards
@@ -106,6 +108,7 @@ Engineering ecosystem evolution roadmap and future initiatives.
 ## Engineering Principles
 
 - Scalability
+- SOLID Principles
 - Maintainability
 - Clean Architecture
 - Domain-Driven Design
