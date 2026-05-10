@@ -123,7 +123,7 @@ Engineering ecosystem evolution roadmap and future initiatives.
 ## Repository Policy
 This repository is publicly accessible for viewing and educational reference purposes only.
 
-See the [LICENSE](README.md) file for additional information.
+See the [LICENSE](./LICENSE.md) file for additional information.
 
 
 ## Organization
