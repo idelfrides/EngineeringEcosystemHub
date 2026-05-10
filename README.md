@@ -2,7 +2,6 @@
 
 Central engineering hub for architecture references, real-world projects, and technology ecosystems.
 
----
 
 ## Overview
 
@@ -25,7 +24,7 @@ Its primary purpose is to provide structured access to engineering repositories,
 
 
 # Engineering Domains
----
+
 ## Backend Engineering
 Server-side systems, APIs, distributed systems, messaging, caching, authentication, and scalable backend architectures.
 
