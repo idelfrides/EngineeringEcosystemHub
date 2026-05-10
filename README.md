@@ -11,7 +11,6 @@ This repository does not contain application source code.
 Its primary purpose is to provide structured access to engineering repositories, technical references, architectural domains, and ecosystem-wide documentation.
 
 
-
 ## Objectives
 
 - Centralize engineering knowledge and repository discovery
@@ -20,7 +19,6 @@ Its primary purpose is to provide structured access to engineering repositories,
 - Maintain a scalable engineering ecosystem structure
 - Provide a professional engineering portfolio and technical showcase
 - Consolidate technology references and production-grade repositories
-
 
 
 # Engineering Domains
@@ -77,5 +75,58 @@ engineering-ecosystem-hub/
 ├── cloud/
 ├── architecture/
 ├── assets/
-├── docs/
 └── README.md
+```
+
+## Documentation
+Ecosystem Overview
+General overview of the engineering ecosystem structure, domains, and repository organization.
+
+[ecosystem-overview.md](./docs/ecosystem-overview.md)
+
+### Engineering Philosophy
+Core engineering principles, quality standards, and ecosystem-wide technical vision.
+[engineering-philosophy.md](./docs/ecosystem-overview.md)
+
+### Standards
+Engineering conventions, repository standards, naming conventions, workflows, and organizational practices.
+
+[standards.md](./docs/standards.md)
+
+
+Roadmap
+Engineering ecosystem evolution roadmap and future initiatives.
+
+[roadmap.md](./docs/roadmap.md)
+
+
+### Technologies
+`Python | FastAPI | Django | Flask | ASP.NET Core | Node.js | React | Next.js | Flutter | Docker | Kubernetes | PostgreSQL | Redis | RabbitMQ | Kafka | GitHub Actions | Terraform | AWS | Azure | GraphQL`
+
+## Engineering Principles
+
+- Scalability
+- Maintainability
+- Clean Architecture
+- Domain-Driven Design
+- Observability
+- Automation
+- Performance
+- Security
+- Modularity
+- Production-Readiness
+
+
+## Repository Policy
+This repository is publicly accessible for viewing and educational reference purposes only.
+
+See the [LICENSE](README.md) file for additional information.
+
+
+## Organization
+Production-grade repositories, templates, services, and engineering projects are maintained separately within the official organization repositories.
+
+
+## Status
+
+Engineering Ecosystem Hub is continuously evolving as new engineering domains, technologies, standards, and production-grade repositories are introduced into the ecosystem.

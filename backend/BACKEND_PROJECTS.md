@@ -17,7 +17,6 @@ Enterprise-ready ASP.NET Core backend template designed for scalable and maintai
 ### Repository
 [backend-python-template](https://github.com/IJDEVPRO-Org/backend-python-template)
 
----
 
 ## backend-python-template
 
