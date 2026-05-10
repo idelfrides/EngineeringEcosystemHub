@@ -46,7 +46,7 @@ Cross-platform and native mobile applications, mobile architecture, offline-firs
 ## Artificial Intelligence Engineering
 AI systems, machine learning infrastructure, LLM integrations, prompt engineering, orchestration, and intelligent automation.
 
-[AI Domain](./ai/README.md)
+[AI Domain](./artificial_intelligence/README.md)
 
 ## DevOps Engineering
 Infrastructure automation, CI/CD pipelines, observability, containerization, orchestration, and platform engineering.
