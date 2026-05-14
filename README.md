@@ -3,7 +3,7 @@
 Central engineering hub for architecture references, real-world projects, and technology ecosystems.
 
 
-<p align="inline">
+<p align="center">
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
@@ -15,7 +15,7 @@ Central engineering hub for architecture references, real-world projects, and te
 
 </p>
 
-
+<br><br>
 # Engineering Ecosystem Hub
 
 ## Overview
