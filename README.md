@@ -2,6 +2,7 @@
 
 Central engineering hub for architecture references, real-world projects, and technology ecosystems.
 
+<br>
 
 <p align="center">
 
@@ -11,11 +12,12 @@ Central engineering hub for architecture references, real-world projects, and te
 ![Architecture](https://img.shields.io/badge/architecture-scalable-blueviolet)
 ![Documentation](https://img.shields.io/badge/documentation-engineering--grade-orange)
 ![Domains](https://img.shields.io/badge/domains-multi--technology-purple)
-![Engineering](https://img.shields.io/badge/focus-production--grade-black)
+![Engineering](https://img.shields.io/badge/focus-production--grade-darkblue)
 
 </p>
-
 <br><br>
+
+
 # Engineering Ecosystem Hub
 
 ## Overview
