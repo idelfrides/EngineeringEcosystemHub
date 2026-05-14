@@ -2,13 +2,11 @@
 
 Centralized engineering standards, conventions, and organizational practices adopted throughout the Engineering Ecosystem Hub.
 
----
 
 # Repository Standards
 
 All repositories should follow consistent organizational and documentation patterns.
 
----
 
 ## Repository Naming
 
@@ -27,7 +25,6 @@ Repositories should use:
 
 `kubernetes-platform-template`
 
----
 
 # Documentation Standards
 
@@ -46,7 +43,6 @@ Documentation should prioritize:
 - Scalability
 - Maintainability
 
----
 
 # Branching Strategy
 
@@ -58,7 +54,6 @@ Recommended branch structure:
 - `hotfix/*`
 - `release/*`
 
----
 
 # Commit Standards
 
@@ -78,7 +73,6 @@ Recommended conventions:
 `test:`
 `chore:`
 
----
 
 # CI/CD Standards
 
@@ -90,7 +84,6 @@ Repositories should prioritize:
 - Security scanning
 - Deployment automation
 
----
 
 # Architecture Standards
 
@@ -103,7 +96,6 @@ Preferred architectural approaches include:
 - Distributed Systems
 - Cloud-Native Architecture
 
----
 
 # Infrastructure Standards
 
@@ -116,7 +108,6 @@ Infrastructure should prioritize:
 - Security
 - Automation
 
----
 
 # Security Standards
 
@@ -128,7 +119,6 @@ Repositories and systems should adopt:
 - Access control
 - Least privilege principles
 
----
 
 # Documentation Governance
 
