@@ -3,6 +3,21 @@
 Central engineering hub for architecture references, real-world projects, and technology ecosystems.
 
 
+<p align="inline">
+
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+![Status](https://img.shields.io/badge/status-active-success)
+![Architecture](https://img.shields.io/badge/architecture-scalable-blueviolet)
+![Documentation](https://img.shields.io/badge/documentation-engineering--grade-orange)
+![Domains](https://img.shields.io/badge/domains-multi--technology-purple)
+![Engineering](https://img.shields.io/badge/focus-production--grade-black)
+
+</p>
+
+
+# Engineering Ecosystem Hub
+
 ## Overview
 
 Engineering Ecosystem Hub is a centralized engineering portal designed to organize, catalog, and document production-grade software projects, engineering domains, architectural standards, and technology ecosystems.
