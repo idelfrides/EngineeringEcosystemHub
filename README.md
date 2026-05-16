@@ -44,18 +44,15 @@ Server-side systems, APIs, distributed systems, messaging, caching, authenticati
 
 [Backend Domain](./backend/README.md)
 
-
 ## Frontend Engineering
 Modern frontend applications, UI architecture, design systems, accessibility, and performance-oriented interfaces.
 
 [Frontend Domain](./frontend/README.md)
 
-
 ## Mobile Engineering
 Cross-platform and native mobile applications, mobile architecture, offline-first systems, and mobile integrations.
 
 [Mobile Domain](./mobile/README.md)
-
 
 ## Artificial Intelligence Engineering
 AI systems, machine learning infrastructure, LLM integrations, prompt engineering, orchestration, and intelligent automation.
@@ -72,7 +69,6 @@ Cloud-native systems, distributed infrastructure, scalability, infrastructure as
 
 [Cloud Domain](./cloud/README.md)
 
-
 ## Software Architecture
 Engineering patterns, distributed systems, DDD, CQRS, event-driven architecture, and scalable system design.
 
@@ -83,7 +79,6 @@ Engineering patterns, distributed systems, DDD, CQRS, event-driven architecture,
 Database systems, persistence architectures, query optimization, scalability strategies, replication models, and production-grade database engineering references.
 
 [Database Engineering Domain](./databases/README.md)
-
 
 ## Engineering Templates
 
@@ -133,7 +128,6 @@ Roadmap
 Engineering ecosystem evolution roadmap and future initiatives.
 
 [roadmap.md](./docs/roadmap.md)
-
 
 ### Technologies
 `Python | FastAPI | Django | Flask | ASP.NET Core | Node.js | React | Next.js | Docker | Kubernetes | PostgreSQL | Redis | RabbitMQ | Kafka | GitHub Actions | Terraform | AWS | Azure | GraphQL`
