@@ -15,7 +15,7 @@
 <br>
 Central engineering hub for architecture references, real-world projects, and technology ecosystems.
 
-<br>
+<br>    
 
 # Engineering Ecosystem Hub
 
@@ -72,10 +72,24 @@ Cloud-native systems, distributed infrastructure, scalability, infrastructure as
 
 [Cloud Domain](./cloud/README.md)
 
+
 ## Software Architecture
 Engineering patterns, distributed systems, DDD, CQRS, event-driven architecture, and scalable system design.
 
 [Architecture Domain](./architecture/README.md)
+
+## Database Engineering
+
+Database systems, persistence architectures, query optimization, scalability strategies, replication models, and production-grade database engineering references.
+
+[Database Engineering Domain](./databases/README.md)
+
+
+## Engineering Templates
+
+Reusable engineering templates, scalable starter architectures, production-grade boilerplates, scaffolding systems, and standardized engineering foundations.
+
+[Engineering Templates Domain](./templates/README.md)
 
 
 # Repository Structure
@@ -83,14 +97,17 @@ Engineering patterns, distributed systems, DDD, CQRS, event-driven architecture,
 ```text
 engineering-ecosystem-hub/
 │
+├── architecture/
+├── artificial_intelligence/
+├── assets/
 ├── backend/
+├── cloud/
+├── databases/
+├── devops/
+├── docs/
 ├── frontend/
 ├── mobile/
-├── ai/
-├── devops/
-├── cloud/
-├── architecture/
-├── assets/
+├── templates/
 └── README.md
 ```
 
@@ -134,6 +151,7 @@ Engineering ecosystem evolution roadmap and future initiatives.
 - Security
 - Modularity
 - Production-Readiness
+- CI/CD
 
 
 ## Repository Policy

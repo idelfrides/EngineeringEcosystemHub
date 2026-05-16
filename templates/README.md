@@ -22,11 +22,13 @@ The purpose of this domain is to provide standardized and reusable engineering f
 - Engineering blueprints
 - Reusable architectures
 - Production-grade foundations
+- CI/CD 
 
 ## Technologies
 
 - Python
 - ASP.NET Core
+- .NET/C#
 - FastAPI
 - Django
 - React

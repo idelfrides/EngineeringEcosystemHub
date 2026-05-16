@@ -17,7 +17,7 @@ Enterprise-ready ASP.NET Core backend template designed for scalable and maintai
 ### Repository
 [backend-dotnet-template](https://github.com/IJDEVPRO-Org/backend-dotnet-template)
 
----
+ 
 
 ## backend-python-template
 
@@ -32,7 +32,7 @@ Production-ready Python backend template focused on scalability, automation, and
 ### Repository
 [backend-python-template](https://github.com/IJDEVPRO-Org/backend-python-template)
 
----
+
 
 ## frontend-react-template
 
@@ -47,7 +47,6 @@ Scalable React frontend template designed for maintainable web applications with
 ### Repository
 [frontend-react-template](https://github.com/IJDEVPRO-Org/frontend-react-template)
 
----
 
 ## frontend-nextjs-template
 
@@ -62,7 +61,6 @@ Production-ready Next.js frontend template optimized for SSR, scalability, SEO, 
 ### Repository
 [frontend-nextjs-template](https://github.com/IJDEVPRO-Org/frontend-nextjs-template)
 
----
 
 ## kubernetes-platform-template
 
@@ -77,7 +75,6 @@ Production-ready Kubernetes infrastructure template focused on scalability, obse
 ### Repository
 [kubernetes-platform-template](https://github.com/IJDEVPRO-Org/kubernetes-platform-template)
 
----
 
 ## aws-cloud-foundation
 

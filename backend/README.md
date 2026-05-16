@@ -18,6 +18,9 @@ This domain centralizes backend engineering references, architectural standards,
 - Database architecture
 - Caching strategies
 - Scalability patterns
+- Real world projects
+- Proof of Concepts projects(POC)
+- Training and Learning projects
 
 ## Technologies
 
@@ -26,7 +29,7 @@ This domain centralizes backend engineering references, architectural standards,
 - FastAPI
 - Flask
 - ASP.NET Core
-- Node.js
+- .NET/C#
 - PostgreSQL
 - Redis
 - RabbitMQ
