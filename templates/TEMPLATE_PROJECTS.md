@@ -33,6 +33,20 @@ Production-ready Python backend template focused on scalability, automation, and
 [backend-python-template](https://github.com/IJDEVPRO-Org/backend-python-template)
 
 
+## backend-python-django-template [`fix this`]
+
+Production-ready Python backend template focused on scalability, automation, and modern backend engineering practices.
+
+### Stack
+`Django | PostgreSQL | Redis | Docker | Pytest`
+
+### Engineering Topics
+`Async APIs | Background Jobs | Caching | CI/CD | Containerization`
+
+### Repository
+[backend-python-django-template](https://github.com/IJDEVPRO-Org/backend-python-template)
+
+
 
 ## frontend-react-template
 
